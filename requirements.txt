@@ -1,5 +1,5 @@
-pandas
-numpy
-plotly
-openpyxl
+pandas>=2.0.0
+numpy>=1.26
+plotly>=5.0
+openpyxl>=3.1
 jupyter
