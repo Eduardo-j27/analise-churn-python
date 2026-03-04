@@ -1,44 +1,48 @@
-<!-- Banner ou Título -->
-# 🔍 Python Insights – Análise de Churn (Cancelamento de Clientes)
+<div align="center">
 
-![Capa do Projeto](https://raw.githubusercontent.com/Eduardo-j27/analise-churn-python/main/capa.png)
+# 🚀 Churn Analysis — Análise de Cancelamento de Clientes  
+### 📊 Data Analytics & Python Project  
 
-<!-- Badges -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3.10-blue" />
-  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen" />
-  <img src="https://img.shields.io/badge/Notebook-Jupyter-orange" />
-  <img src="https://img.shields.io/badge/Data%20Science-Análise%20de%20Dados-yellow" />
-</p>
+<img src="capa.png" width="900">
 
 ---
 
-# 📌 Sobre o Projeto
-Este repositório apresenta uma análise completa do comportamento de clientes e dos motivos que levam ao **cancelamento (churn)** de um serviço.  
-A base de dados contém **50 mil registros reais**, simulando uma situação onde uma empresa percebeu um grande número de clientes inativos e solicitou uma investigação.
+### 🎞️ Demonstração da Análise  
+<img src="demo.gif" width="700">
 
-Usando Python e bibliotecas de Data Science, transforme-se dados brutos em insights que ajudam na tomada de decisões estratégicas.
-
----
-
-# 🎯 Objetivos do Projeto
-- Analisar o perfil dos clientes.
-- Identificar os principais fatores que levam ao churn.
-- Criar uma base limpa para futura modelagem preditiva.
-- Demonstrar habilidades com Python, análise de dados e visualização.
+</div>
 
 ---
 
-# 🧠 Tecnologias Utilizadas
-- **Python 3**
-- **Pandas**
-- **NumPy**
-- **Matplotlib / Plotly**
-- **Jupyter Notebook**
-- **OpenPyXL**
-- **VS Code / JupyterLab**
+## 📘 Sobre o Projeto
+
+Este projeto apresenta uma **análise completa sobre o churn (cancelamento de clientes)** usando Python.
+
+A base de dados possui **50 mil registros**, simulando um cenário real onde uma empresa deseja entender **por que muitos clientes estão cancelando** — e o que pode ser feito para reduzir esse número.
+
+Utilizei bibliotecas de Data Science para transformar dados brutos em **insights relevantes**, gerando decisões estratégicas de negócio.
 
 ---
 
+## 🎯 Objetivos do Projeto
+
+✔️ Identificar o perfil dos clientes  
+✔️ Encontrar os principais motivos de cancelamento  
+✔️ Tratar, limpar e preparar os dados  
+✔️ Criar visualizações e análises claras  
+✔️ Propor ações estratégicas para reduzir o churn  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+| Tecnologia | Uso |
+|-----------|-----|
+| **Python 3** | Linguagem principal |
+| **Pandas** | Tratamento dos dados |
+| **NumPy** | Operações numéricas |
+| **Plotly** | Gráficos interativos |
+| **Jupyter Notebook** | Ambiente de análise |
+| **OpenPyXL / CSV** | Manipulação de arquivos |
 
 
