@@ -1,8 +1,6 @@
 <!-- Banner ou Título -->
 # 🔍 Python Insights – Análise de Churn (Cancelamento de Clientes)
 
-![Capa do Projeto](https://raw.githubusercontent.com/Eduardo-j27/analise-churn-python/refs/heads/main/Capa%20projeto%20de%20analise%20de%20dados.png)
-
 <!-- Badges -->
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10-blue" />
@@ -39,6 +37,7 @@ Usando Python e bibliotecas de Data Science, transforme-se dados brutos em insig
 - **VS Code / JupyterLab**
 
 ---
+
 
 
 
